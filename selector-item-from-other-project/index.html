@@ -154,7 +154,7 @@
         loadItems(storedItems);
         $("#selectItem")
           .autocomplete({
-            minLength: 1,
+            minLength: 0,
             source: items,
             focus: function(event, ui) {
               return false;
