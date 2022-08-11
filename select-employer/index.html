@@ -234,6 +234,7 @@
           if (selectedItems[i].codename == codename) {
             selectedItems.splice(i, 1);
           }
+        }
         CustomElement.setValue(JSON.stringify(selectedItems));
         $("#" + codename).fadeOut(200);
         updateSize();
