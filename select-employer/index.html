@@ -160,7 +160,7 @@
               return false;
             },
             select: function(event, ui) {
-              addItem(ui.item.value, ui.item.label, ui.item.lang, ui.item.type);
+              addItem(ui.item.value, ui.item.label, ui.item.lang, ui.item.type, ui.item.companyCode, ui.item.companyCodeDev, ui.item.companyCodeiTest, ui.item.companyCodeUat);
               updateSize();
               return false;
             }
@@ -194,7 +194,7 @@
         }
       }
 
-      function addItem(codename, name, lang, type) {
+      function addItem(codename, name, lang, type, companyCode, companyCodeDev, companyCodeiTest, companyCodeUat) {
         if (!checkItems(codename)) {
           $("#selectedItems").append(
             "<div class='external-item selected' id='" +
@@ -216,7 +216,11 @@
             codename: codename,
             name: name,
             language: lang,
-            type: type
+            type: type,
+            companyCode: companyCode,
+            companyCodeDev: companyCodeDev,
+            companyCodeiTest: companyCodeiTest,
+            companyCodeUat: companyCodeUat
           });
           CustomElement.setValue(JSON.stringify(selectedItems));
         } else {
