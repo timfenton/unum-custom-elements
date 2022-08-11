@@ -137,6 +137,7 @@
           dataType: "text",
           success: function(data) {
             data = JSON.parse(data);
+            console.log(data);
             if (data.items.length > 0) {
               processItems(data.items);
               loadSelector(value);
@@ -181,6 +182,7 @@
 
       function processItems(data) {
         for (var i = 0; i < data.length; i++) {
+          console.log(data[i]);
           items.push({
             value: data[i].system.codename,
             label: data[i].system.name,
