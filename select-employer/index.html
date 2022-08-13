@@ -188,10 +188,10 @@
             label: data[i].system.name,
             lang: data[i].system.language,
             type: data[i].system.type,
-            companyCode: data[i].elements.identifier,
-            companyCodeDev: data[i].elements.identifier_dev1,
-            companyCodeiTest: data[i].elements.identifier_itest1,
-            companyCodeUat: data[i].elements.identifier_uat
+            companyCode: data[i].elements.identifier?.value,
+            companyCodeDev: data[i].elements.identifier_dev1?.value,
+            companyCodeiTest: data[i].elements.identifier_itest1?.value,
+            companyCodeUat: data[i].elements.identifier_uat?.value
           });
         }
       }
