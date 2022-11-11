@@ -1,0 +1,450 @@
+Event_Name,LastSeenAt_UTC,Property_Name,Allowed,Blocked,Total
+Absences: Add Absence,2022-11-11 18:12:36, ,287,0,287
+Absences: Add Absence,2022-11-11 18:12:36,category,287,0,287
+Absences: Add Absence,2022-11-11 18:12:36,date,287,0,287
+Absences: Add Absence,2022-11-11 18:12:36,eid,287,0,287
+Absences: Add Absence,2022-11-11 18:12:36,eventType,287,0,287
+Absences: Add Absence,2022-11-11 18:12:36,language,287,0,287
+Absences: Add Absence,2022-11-11 18:12:36,ntn,287,0,287
+Absences: Add Absence,2022-11-11 18:12:36,origin,260,0,260
+Absences: Add Absence,2022-11-11 18:12:36,source,287,0,287
+Absences: Add Absence,2022-11-11 18:12:36,userAgent,287,0,287
+Absences: Calendar View,2022-11-11 15:26:28, ,9,0,9
+Absences: Calendar View,2022-11-11 15:26:28,category,9,0,9
+Absences: Calendar View,2022-11-11 15:26:28,eid,9,0,9
+Absences: Calendar View,2022-11-11 15:26:28,eventType,9,0,9
+Absences: Calendar View,2022-11-11 15:26:28,language,9,0,9
+Absences: Calendar View,2022-11-11 15:26:28,origin,9,0,9
+Absences: Calendar View,2022-11-11 15:26:28,source,9,0,9
+Absences: Calendar View,2022-11-11 15:26:28,userAgent,9,0,9
+Absences: Card Expanded,2022-11-11 15:42:40, ,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,actualDate,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,additionalNotes,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,caseId,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,category,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,decisions,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.adjudicationStatus,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.decisionStatus,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.leaveCategory,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.leaveGroup,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.leavePlanName,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.timeDecisionReason,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.timeDecisionStatus,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.timeDeducted,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.timeDeductedBasis,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,decisions.$.timeRequested,76,0,76
+Absences: Card Expanded,2022-11-11 15:42:40,eid,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,endDateTime,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,episodePeriodBasis,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,episodePeriodDuration,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,eventType,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,hasDecisionError,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,index,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,isPartiallyApproved,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,language,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,origin,71,0,71
+Absences: Card Expanded,2022-11-11 15:42:40,reason,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,reportedDateTime,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,source,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,startDateTime,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,status,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,type,77,0,77
+Absences: Card Expanded,2022-11-11 15:42:40,userAgent,77,0,77
+Absences: Changed Month,2022-11-11 18:14:35, ,926,0,926
+Absences: Changed Month,2022-11-11 18:14:35,category,926,0,926
+Absences: Changed Month,2022-11-11 18:14:35,eid,926,0,926
+Absences: Changed Month,2022-11-11 18:14:35,eventType,926,0,926
+Absences: Changed Month,2022-11-11 18:14:35,fromMonth,926,0,926
+Absences: Changed Month,2022-11-11 18:14:35,language,926,0,926
+Absences: Changed Month,2022-11-11 18:14:35,origin,822,0,822
+Absences: Changed Month,2022-11-11 18:14:35,source,926,0,926
+Absences: Changed Month,2022-11-11 18:14:35,toMonth,926,0,926
+Absences: Changed Month,2022-11-11 18:14:35,userAgent,926,0,926
+Absences: Clicked Day,2022-11-11 18:15:18, ,684,0,684
+Absences: Clicked Day,2022-11-11 18:15:18,category,684,0,684
+Absences: Clicked Day,2022-11-11 18:15:18,date,684,0,684
+Absences: Clicked Day,2022-11-11 18:15:18,eid,684,0,684
+Absences: Clicked Day,2022-11-11 18:15:18,eventType,684,0,684
+Absences: Clicked Day,2022-11-11 18:15:18,language,684,0,684
+Absences: Clicked Day,2022-11-11 18:15:18,origin,621,0,621
+Absences: Clicked Day,2022-11-11 18:15:18,source,684,0,684
+Absences: Clicked Day,2022-11-11 18:15:18,userAgent,684,0,684
+Absences: List View,2022-11-11 15:26:06, ,50,0,50
+Absences: List View,2022-11-11 15:26:06,category,50,0,50
+Absences: List View,2022-11-11 15:26:06,eid,50,0,50
+Absences: List View,2022-11-11 15:26:06,eventType,50,0,50
+Absences: List View,2022-11-11 15:26:06,language,50,0,50
+Absences: List View,2022-11-11 15:26:06,origin,44,0,44
+Absences: List View,2022-11-11 15:26:06,source,50,0,50
+Absences: List View,2022-11-11 15:26:06,userAgent,50,0,50
+Absences: Select Leave,2022-11-11 18:14:33, ,862,0,862
+Absences: Select Leave,2022-11-11 18:14:33,category,862,0,862
+Absences: Select Leave,2022-11-11 18:14:33,eid,862,0,862
+Absences: Select Leave,2022-11-11 18:14:33,eventType,862,0,862
+Absences: Select Leave,2022-11-11 18:14:33,language,862,0,862
+Absences: Select Leave,2022-11-11 18:14:33,ntn,862,0,862
+Absences: Select Leave,2022-11-11 18:14:33,origin,789,0,789
+Absences: Select Leave,2022-11-11 18:14:33,source,862,0,862
+Absences: Select Leave,2022-11-11 18:14:33,userAgent,862,0,862
+Absences: Select Leave,2022-11-11 18:14:33,view,862,0,862
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21, ,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,Eid,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,FIGCard,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,Form,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,category,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,eid,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,eventType,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,language,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,origin,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,source,2,0,2
+Behavioral Health Next Step: Clicked,2022-11-10 15:12:21,userAgent,2,0,2
+Chat Closed,2022-11-07 20:28:17, ,1,0,1
+Chat Closed,2022-11-07 20:28:17,category,1,0,1
+Chat Closed,2022-11-07 20:28:17,eid,1,0,1
+Chat Closed,2022-11-07 20:28:17,eventType,1,0,1
+Chat Closed,2022-11-07 20:28:17,label,1,0,1
+Chat Closed,2022-11-07 20:28:17,language,1,0,1
+Chat Closed,2022-11-07 20:28:17,origin,1,0,1
+Chat Closed,2022-11-07 20:28:17,source,1,0,1
+Chat Closed,2022-11-07 20:28:17,userAgent,1,0,1
+Chat Closed,2022-11-07 20:28:17,value,1,0,1
+Chat Opened,2022-11-11 16:04:09, ,16,0,16
+Chat Opened,2022-11-11 16:04:09,category,16,0,16
+Chat Opened,2022-11-11 16:04:09,eid,16,0,16
+Chat Opened,2022-11-11 16:04:09,eventType,16,0,16
+Chat Opened,2022-11-11 16:04:09,label,16,0,16
+Chat Opened,2022-11-11 16:04:09,language,16,0,16
+Chat Opened,2022-11-11 16:04:09,origin,16,0,16
+Chat Opened,2022-11-11 16:04:09,source,16,0,16
+Chat Opened,2022-11-11 16:04:09,userAgent,16,0,16
+Chat Opened,2022-11-11 16:04:09,value,16,0,16
+Error Notification,2022-11-10 19:59:04, ,1,0,1
+Error Notification,2022-11-10 19:59:04,category,1,0,1
+Error Notification,2022-11-10 19:59:04,eid,1,0,1
+Error Notification,2022-11-10 19:59:04,eventType,1,0,1
+Error Notification,2022-11-10 19:59:04,label,1,0,1
+Error Notification,2022-11-10 19:59:04,language,1,0,1
+Error Notification,2022-11-10 19:59:04,origin,1,0,1
+Error Notification,2022-11-10 19:59:04,source,1,0,1
+Error Notification,2022-11-10 19:59:04,userAgent,1,0,1
+Error Notification,2022-11-10 19:59:04,value,1,0,1
+Error Page,2022-11-08 05:36:52, ,1,0,1
+Error Page,2022-11-08 05:36:52,category,1,0,1
+Error Page,2022-11-08 05:36:52,eid,1,0,1
+Error Page,2022-11-08 05:36:52,eventType,1,0,1
+Error Page,2022-11-08 05:36:52,label,1,0,1
+Error Page,2022-11-08 05:36:52,language,1,0,1
+Error Page,2022-11-08 05:36:52,origin,1,0,1
+Error Page,2022-11-08 05:36:52,source,1,0,1
+Error Page,2022-11-08 05:36:52,userAgent,1,0,1
+Error Page,2022-11-08 05:36:52,value,1,0,1
+Existing Device Login,2022-11-11 17:48:41, ,109,0,109
+Existing Device Login,2022-11-11 17:48:41,category,109,0,109
+Existing Device Login,2022-11-11 17:48:41,eid,109,0,109
+Existing Device Login,2022-11-11 17:48:41,eventType,109,0,109
+Existing Device Login,2022-11-11 17:48:41,label,109,0,109
+Existing Device Login,2022-11-11 17:48:41,language,109,0,109
+Existing Device Login,2022-11-11 17:48:41,origin,109,0,109
+Existing Device Login,2022-11-11 17:48:41,source,109,0,109
+Existing Device Login,2022-11-11 17:48:41,userAgent,109,0,109
+Existing Device Login,2022-11-11 17:48:41,value,109,0,109
+Fig Next Step: Clicked,2022-11-08 17:52:58, ,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,Eid,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,FIGCard,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,Form,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,category,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,eid,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,eventType,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,language,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,origin,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,source,1,0,1
+Fig Next Step: Clicked,2022-11-08 17:52:58,userAgent,1,0,1
+Fig Next Step: Shown,2022-11-11 15:54:06, ,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,CardTitle,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,Eid,28,0,28
+Fig Next Step: Shown,more than 30 days ago,FIGCard,0,0,0
+Fig Next Step: Shown,2022-11-11 15:54:06,Form,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,category,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,eid,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,eventType,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,language,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,origin,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,source,28,0,28
+Fig Next Step: Shown,2022-11-11 15:54:06,userAgent,28,0,28
+First Device Login,2022-11-10 20:51:38, ,47,0,47
+First Device Login,2022-11-10 20:51:38,category,47,0,47
+First Device Login,2022-11-10 20:51:38,eid,47,0,47
+First Device Login,2022-11-10 20:51:38,eventType,47,0,47
+First Device Login,2022-11-10 20:51:38,label,47,0,47
+First Device Login,2022-11-10 20:51:38,language,47,0,47
+First Device Login,2022-11-10 20:51:38,origin,47,0,47
+First Device Login,2022-11-10 20:51:38,source,47,0,47
+First Device Login,2022-11-10 20:51:38,userAgent,47,0,47
+First Device Login,2022-11-10 20:51:38,value,47,0,47
+Form: Exited,2022-11-11 17:57:04, ,26,0,26
+Form: Exited,2022-11-11 17:57:04,category,26,0,26
+Form: Exited,2022-11-11 17:57:04,eid,26,0,26
+Form: Exited,2022-11-11 17:57:04,eventType,26,0,26
+Form: Exited,2022-11-11 17:57:04,label,26,0,26
+Form: Exited,2022-11-11 17:57:04,language,26,0,26
+Form: Exited,2022-11-11 17:57:04,origin,26,0,26
+Form: Exited,2022-11-11 17:57:04,source,26,0,26
+Form: Exited,2022-11-11 17:57:04,userAgent,26,0,26
+Form: Exited,2022-11-11 17:57:04,value,26,0,26
+Form: Started,2022-11-11 17:54:35, ,47,0,47
+Form: Started,2022-11-11 17:54:35,category,47,0,47
+Form: Started,2022-11-11 17:54:35,eid,47,0,47
+Form: Started,2022-11-11 17:54:35,eventType,47,0,47
+Form: Started,2022-11-11 17:54:35,label,47,0,47
+Form: Started,2022-11-11 17:54:35,language,47,0,47
+Form: Started,2022-11-11 17:54:35,origin,47,0,47
+Form: Started,2022-11-11 17:54:35,source,47,0,47
+Form: Started,2022-11-11 17:54:35,userAgent,47,0,47
+Form: Started,2022-11-11 17:54:35,value,47,0,47
+Form: Successful Submission,2022-11-11 17:56:44, ,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,category,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,eid,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,eventType,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,label,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,language,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,origin,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,source,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,userAgent,17,0,17
+Form: Successful Submission,2022-11-11 17:56:44,value,17,0,17
+Forms - IA: Add Absence,2022-11-10 18:08:58, ,40,0,40
+Forms - IA: Add Absence,2022-11-10 18:08:58,category,40,0,40
+Forms - IA: Add Absence,2022-11-10 18:08:58,eid,40,0,40
+Forms - IA: Add Absence,2022-11-10 18:08:58,eventType,40,0,40
+Forms - IA: Add Absence,2022-11-10 18:08:58,language,40,0,40
+Forms - IA: Add Absence,2022-11-10 18:08:58,origin,38,0,38
+Forms - IA: Add Absence,2022-11-10 18:08:58,source,40,0,40
+Forms - IA: Add Absence,2022-11-10 18:08:58,userAgent,40,0,40
+Forms - IA: View Absences,2022-11-11 17:19:27, ,78,0,78
+Forms - IA: View Absences,2022-11-11 17:19:27,category,78,0,78
+Forms - IA: View Absences,2022-11-11 17:19:27,eid,78,0,78
+Forms - IA: View Absences,2022-11-11 17:19:27,eventType,78,0,78
+Forms - IA: View Absences,2022-11-11 17:19:27,language,78,0,78
+Forms - IA: View Absences,2022-11-11 17:19:27,origin,68,0,68
+Forms - IA: View Absences,2022-11-11 17:19:27,source,78,0,78
+Forms - IA: View Absences,2022-11-11 17:19:27,userAgent,78,0,78
+Get Document,2022-11-10 12:38:42, ,13,0,13
+Get Document,2022-11-10 12:38:42,category,13,0,13
+Get Document,2022-11-10 12:38:42,eid,13,0,13
+Get Document,2022-11-10 12:38:42,eventType,13,0,13
+Get Document,2022-11-10 12:38:42,label,13,0,13
+Get Document,2022-11-10 12:38:42,language,13,0,13
+Get Document,2022-11-10 12:38:42,origin,13,0,13
+Get Document,2022-11-10 12:38:42,source,13,0,13
+Get Document,2022-11-10 12:38:42,userAgent,13,0,13
+Get Document,2022-11-10 12:38:42,value,13,0,13
+Intake Form: Exited,2022-11-11 17:48:22, ,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,category,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,eid,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,eventType,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,exitReason,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,formName,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,language,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,origin,48,0,48
+Intake Form: Exited,2022-11-11 17:48:22,otherText,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,source,51,0,51
+Intake Form: Exited,2022-11-11 17:48:22,userAgent,51,0,51
+LPV: Calendar View Selected,2022-11-11 18:21:34, ,23,0,23
+LPV: Calendar View Selected,2022-11-11 18:24:05,category,24,0,24
+LPV: Calendar View Selected,2022-11-11 18:24:05,eid,24,0,24
+LPV: Calendar View Selected,2022-11-11 18:24:05,eventType,24,0,24
+LPV: Calendar View Selected,2022-11-11 18:24:05,language,24,0,24
+LPV: Calendar View Selected,2022-11-11 18:24:05,origin,21,0,21
+LPV: Calendar View Selected,2022-11-11 18:24:05,source,24,0,24
+LPV: Calendar View Selected,2022-11-11 18:24:05,userAgent,24,0,24
+LPV: Details View Selected,2022-11-11 18:21:47, ,14,0,14
+LPV: Details View Selected,2022-11-11 18:21:47,category,14,0,14
+LPV: Details View Selected,2022-11-11 18:21:47,eid,14,0,14
+LPV: Details View Selected,2022-11-11 18:21:47,eventType,14,0,14
+LPV: Details View Selected,2022-11-11 18:21:47,language,14,0,14
+LPV: Details View Selected,2022-11-11 18:21:47,origin,13,0,13
+LPV: Details View Selected,2022-11-11 18:21:47,source,14,0,14
+LPV: Details View Selected,2022-11-11 18:21:47,userAgent,14,0,14
+LPV: Edit Button Pressed,2022-11-11 18:20:22, ,45,0,45
+LPV: Edit Button Pressed,2022-11-11 18:20:22,category,45,0,45
+LPV: Edit Button Pressed,2022-11-11 18:20:22,eid,45,0,45
+LPV: Edit Button Pressed,2022-11-11 18:20:22,eventType,45,0,45
+LPV: Edit Button Pressed,2022-11-11 18:20:22,language,45,0,45
+LPV: Edit Button Pressed,2022-11-11 18:20:22,origin,40,0,40
+LPV: Edit Button Pressed,2022-11-11 18:20:22,source,45,0,45
+LPV: Edit Button Pressed,2022-11-11 18:20:22,userAgent,45,0,45
+LPV: Edit Option Selected,2022-11-11 18:20:30, ,33,0,33
+LPV: Edit Option Selected,2022-11-11 18:20:30,category,33,0,33
+LPV: Edit Option Selected,2022-11-11 18:20:30,eid,33,0,33
+LPV: Edit Option Selected,2022-11-11 18:20:30,eventType,33,0,33
+LPV: Edit Option Selected,2022-11-11 18:20:30,language,33,0,33
+LPV: Edit Option Selected,2022-11-11 18:20:30,optionText,33,0,33
+LPV: Edit Option Selected,2022-11-11 18:20:30,origin,29,0,29
+LPV: Edit Option Selected,2022-11-11 18:20:30,source,33,0,33
+LPV: Edit Option Selected,2022-11-11 18:20:30,userAgent,33,0,33
+LPV: Income Protection Details Expanded,2022-11-11 18:23:50, ,45,0,45
+LPV: Income Protection Details Expanded,2022-11-11 18:23:50,category,45,0,45
+LPV: Income Protection Details Expanded,2022-11-11 18:23:50,eid,45,0,45
+LPV: Income Protection Details Expanded,2022-11-11 18:23:50,eventType,45,0,45
+LPV: Income Protection Details Expanded,2022-11-11 18:23:50,language,45,0,45
+LPV: Income Protection Details Expanded,2022-11-11 18:23:50,origin,42,0,42
+LPV: Income Protection Details Expanded,2022-11-11 18:23:50,source,45,0,45
+LPV: Income Protection Details Expanded,2022-11-11 18:23:50,userAgent,45,0,45
+LPV: Job Protection Details Expanded,2022-11-11 17:45:07, ,62,0,62
+LPV: Job Protection Details Expanded,2022-11-11 17:45:07,category,62,0,62
+LPV: Job Protection Details Expanded,2022-11-11 17:45:07,eid,62,0,62
+LPV: Job Protection Details Expanded,2022-11-11 17:45:07,eventType,62,0,62
+LPV: Job Protection Details Expanded,2022-11-11 17:45:07,language,62,0,62
+LPV: Job Protection Details Expanded,2022-11-11 17:45:07,origin,55,0,55
+LPV: Job Protection Details Expanded,2022-11-11 17:45:07,source,62,0,62
+LPV: Job Protection Details Expanded,2022-11-11 17:45:07,userAgent,62,0,62
+Page Viewed,2022-11-11 18:23:37, ,18895,0,18895
+Page Viewed,more than 30 days ago,category,0,0,0
+Page Viewed,more than 30 days ago,eid,0,0,0
+Page Viewed,more than 30 days ago,eventType,0,0,0
+Page Viewed,more than 30 days ago,language,0,0,0
+Page Viewed,more than 30 days ago,origin,0,0,0
+Page Viewed,more than 30 days ago,source,0,0,0
+Page Viewed,more than 30 days ago,userAgent,0,0,0
+Script error.,more than 30 days ago, ,0,0,0
+Script error.,more than 30 days ago,category,0,0,0
+Script error.,more than 30 days ago,eventType,0,0,0
+Script error.,more than 30 days ago,label,0,0,0
+Script error.,more than 30 days ago,language,0,0,0
+Script error.,more than 30 days ago,origin,0,0,0
+Script error.,more than 30 days ago,source,0,0,0
+Script error.,more than 30 days ago,userAgent,0,0,0
+Script error.,more than 30 days ago,value,0,0,0
+Success Notification,2022-11-11 13:56:35, ,11,0,11
+Success Notification,2022-11-11 13:56:35,category,11,0,11
+Success Notification,2022-11-11 13:56:35,eid,11,0,11
+Success Notification,2022-11-11 13:56:35,eventType,11,0,11
+Success Notification,2022-11-11 13:56:35,label,11,0,11
+Success Notification,2022-11-11 13:56:35,language,11,0,11
+Success Notification,2022-11-11 13:56:35,origin,11,0,11
+Success Notification,2022-11-11 13:56:35,source,11,0,11
+Success Notification,2022-11-11 13:56:35,userAgent,11,0,11
+Success Notification,2022-11-11 13:56:35,value,11,0,11
+Summary: Add Absence,more than 30 days ago, ,0,0,0
+Summary: Add Absence,more than 30 days ago,category,0,0,0
+Summary: Add Absence,more than 30 days ago,eventType,0,0,0
+Summary: Add Absence,more than 30 days ago,language,0,0,0
+Summary: Add Absence,more than 30 days ago,ntn,0,0,0
+Summary: Add Absence,more than 30 days ago,origin,0,0,0
+Summary: Add Absence,more than 30 days ago,source,0,0,0
+Summary: Add Absence,more than 30 days ago,userAgent,0,0,0
+Summary: Expand NTN,2022-11-11 18:08:33, ,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,accommodations,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,category,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,claims,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,eid,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,eventType,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,language,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,leaves,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,ntn,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,origin,479,0,479
+Summary: Expand NTN,2022-11-11 18:08:33,source,510,0,510
+Summary: Expand NTN,2022-11-11 18:08:33,userAgent,510,0,510
+Summary: View Absences,2022-11-11 18:14:32, ,547,0,547
+Summary: View Absences,2022-11-11 18:14:32,category,547,0,547
+Summary: View Absences,2022-11-11 18:14:32,eid,547,0,547
+Summary: View Absences,2022-11-11 18:14:32,eventType,547,0,547
+Summary: View Absences,2022-11-11 18:14:32,language,547,0,547
+Summary: View Absences,2022-11-11 18:14:32,ntn,547,0,547
+Summary: View Absences,2022-11-11 18:14:32,origin,505,0,505
+Summary: View Absences,2022-11-11 18:14:32,source,547,0,547
+Summary: View Absences,2022-11-11 18:14:32,userAgent,547,0,547
+Summary: View Leave Plan,2022-11-11 18:12:47, ,474,0,474
+Summary: View Leave Plan,2022-11-11 18:12:47,category,474,0,474
+Summary: View Leave Plan,2022-11-11 18:12:47,eid,474,0,474
+Summary: View Leave Plan,2022-11-11 18:12:47,eventType,474,0,474
+Summary: View Leave Plan,2022-11-11 18:12:47,language,474,0,474
+Summary: View Leave Plan,2022-11-11 18:12:47,ntn,474,0,474
+Summary: View Leave Plan,2022-11-11 18:12:47,origin,450,0,450
+Summary: View Leave Plan,2022-11-11 18:12:47,source,474,0,474
+Summary: View Leave Plan,2022-11-11 18:12:47,userAgent,474,0,474
+Survey: Displayed,2022-11-10 12:38:23, ,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,category,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,eid,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,eventType,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,label,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,language,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,origin,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,source,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,userAgent,7,0,7
+Survey: Displayed,2022-11-10 12:38:23,value,7,0,7
+Survey: Triggered,2022-11-11 17:56:45, ,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,category,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,eid,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,eventType,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,label,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,language,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,origin,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,source,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,userAgent,85,0,85
+Survey: Triggered,2022-11-11 17:56:45,value,85,0,85
+Uncaught TypeError: Cannot read properties of null (reading 'toString'),more than 30 days ago, ,0,0,0
+Uncaught TypeError: Cannot read properties of null (reading 'toString'),more than 30 days ago,category,0,0,0
+Uncaught TypeError: Cannot read properties of null (reading 'toString'),more than 30 days ago,eventType,0,0,0
+Uncaught TypeError: Cannot read properties of null (reading 'toString'),more than 30 days ago,label,0,0,0
+Uncaught TypeError: Cannot read properties of null (reading 'toString'),more than 30 days ago,language,0,0,0
+Uncaught TypeError: Cannot read properties of null (reading 'toString'),more than 30 days ago,source,0,0,0
+Uncaught TypeError: Cannot read properties of null (reading 'toString'),more than 30 days ago,userAgent,0,0,0
+Uncaught TypeError: Cannot read properties of null (reading 'toString'),more than 30 days ago,value,0,0,0
+Upload: Failed To Send,2022-11-08 22:41:30, ,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,category,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,eid,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,eventType,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.caseId,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.error,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.errorMessage,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.extension,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.name,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.progress,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.sendPercent,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.sending,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.sent,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.size,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.status,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,files.$.uid,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,language,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,origin,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,responses,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,responses.$,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,source,9,0,9
+Upload: Failed To Send,2022-11-08 22:41:30,userAgent,9,0,9
+Upload: Validation Failure,2022-11-11 13:11:06, ,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,category,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,eid,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,errors,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,errors.$,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,eventType,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,extension,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,language,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,name,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,origin,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,size,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,source,12,0,12
+Upload: Validation Failure,2022-11-11 13:11:06,userAgent,12,0,12
+View Change,2022-11-11 17:48:57, ,154,0,154
+View Change,2022-11-11 17:48:57,category,154,0,154
+View Change,2022-11-11 17:48:57,eid,154,0,154
+View Change,2022-11-11 17:48:57,eventType,154,0,154
+View Change,2022-11-11 17:48:57,label,154,0,154
+View Change,2022-11-11 17:48:57,language,154,0,154
+View Change,2022-11-11 17:48:57,origin,154,0,154
+View Change,2022-11-11 17:48:57,source,154,0,154
+View Change,2022-11-11 17:48:57,userAgent,154,0,154
+View Change,2022-11-11 17:48:57,value,154,0,154
+View Document,2022-11-10 12:38:45, ,14,0,14
+View Document,2022-11-10 12:38:45,category,14,0,14
+View Document,2022-11-10 12:38:45,eid,14,0,14
+View Document,2022-11-10 12:38:45,eventType,14,0,14
+View Document,2022-11-10 12:38:45,label,14,0,14
+View Document,2022-11-10 12:38:45,language,14,0,14
+View Document,2022-11-10 12:38:45,origin,14,0,14
+View Document,2022-11-10 12:38:45,source,14,0,14
+View Document,2022-11-10 12:38:45,userAgent,14,0,14
+View Document,2022-11-10 12:38:45,value,14,0,14

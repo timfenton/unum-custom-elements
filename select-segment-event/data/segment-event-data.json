@@ -1,0 +1,3766 @@
+[
+    {
+        "Absences: Add Absence": [
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": " ",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "category",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "date",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "eid",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "eventType",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "language",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "ntn",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "origin",
+                "Allowed": "260",
+                "Blocked": "0",
+                "Total": "260"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "source",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            },
+            {
+                "Event_Name": "Absences: Add Absence",
+                "LastSeenAt_UTC": "2022-11-11 18:12:36",
+                "Property_Name": "userAgent",
+                "Allowed": "287",
+                "Blocked": "0",
+                "Total": "287"
+            }
+        ]
+    },
+    {
+        "Absences: Calendar View": [
+            {
+                "Event_Name": "Absences: Calendar View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:28",
+                "Property_Name": " ",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Absences: Calendar View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:28",
+                "Property_Name": "category",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Absences: Calendar View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:28",
+                "Property_Name": "eid",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Absences: Calendar View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:28",
+                "Property_Name": "eventType",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Absences: Calendar View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:28",
+                "Property_Name": "language",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Absences: Calendar View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:28",
+                "Property_Name": "origin",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Absences: Calendar View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:28",
+                "Property_Name": "source",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Absences: Calendar View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:28",
+                "Property_Name": "userAgent",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            }
+        ]
+    },
+    {
+        "Absences: Card Expanded": [
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": " ",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "actualDate",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "additionalNotes",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "caseId",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "category",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.adjudicationStatus",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.decisionStatus",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.leaveCategory",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.leaveGroup",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.leavePlanName",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.timeDecisionReason",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.timeDecisionStatus",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.timeDeducted",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.timeDeductedBasis",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "decisions.$.timeRequested",
+                "Allowed": "76",
+                "Blocked": "0",
+                "Total": "76"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "eid",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "endDateTime",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "episodePeriodBasis",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "episodePeriodDuration",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "eventType",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "hasDecisionError",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "index",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "isPartiallyApproved",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "language",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "origin",
+                "Allowed": "71",
+                "Blocked": "0",
+                "Total": "71"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "reason",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "reportedDateTime",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "source",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "startDateTime",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "status",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "type",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            },
+            {
+                "Event_Name": "Absences: Card Expanded",
+                "LastSeenAt_UTC": "2022-11-11 15:42:40",
+                "Property_Name": "userAgent",
+                "Allowed": "77",
+                "Blocked": "0",
+                "Total": "77"
+            }
+        ]
+    },
+    {
+        "Absences: Changed Month": [
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": " ",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "category",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "eid",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "eventType",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "fromMonth",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "language",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "origin",
+                "Allowed": "822",
+                "Blocked": "0",
+                "Total": "822"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "source",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "toMonth",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            },
+            {
+                "Event_Name": "Absences: Changed Month",
+                "LastSeenAt_UTC": "2022-11-11 18:14:35",
+                "Property_Name": "userAgent",
+                "Allowed": "926",
+                "Blocked": "0",
+                "Total": "926"
+            }
+        ]
+    },
+    {
+        "Absences: Clicked Day": [
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": " ",
+                "Allowed": "684",
+                "Blocked": "0",
+                "Total": "684"
+            },
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": "category",
+                "Allowed": "684",
+                "Blocked": "0",
+                "Total": "684"
+            },
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": "date",
+                "Allowed": "684",
+                "Blocked": "0",
+                "Total": "684"
+            },
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": "eid",
+                "Allowed": "684",
+                "Blocked": "0",
+                "Total": "684"
+            },
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": "eventType",
+                "Allowed": "684",
+                "Blocked": "0",
+                "Total": "684"
+            },
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": "language",
+                "Allowed": "684",
+                "Blocked": "0",
+                "Total": "684"
+            },
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": "origin",
+                "Allowed": "621",
+                "Blocked": "0",
+                "Total": "621"
+            },
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": "source",
+                "Allowed": "684",
+                "Blocked": "0",
+                "Total": "684"
+            },
+            {
+                "Event_Name": "Absences: Clicked Day",
+                "LastSeenAt_UTC": "2022-11-11 18:15:18",
+                "Property_Name": "userAgent",
+                "Allowed": "684",
+                "Blocked": "0",
+                "Total": "684"
+            }
+        ]
+    },
+    {
+        "Absences: List View": [
+            {
+                "Event_Name": "Absences: List View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:06",
+                "Property_Name": " ",
+                "Allowed": "50",
+                "Blocked": "0",
+                "Total": "50"
+            },
+            {
+                "Event_Name": "Absences: List View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:06",
+                "Property_Name": "category",
+                "Allowed": "50",
+                "Blocked": "0",
+                "Total": "50"
+            },
+            {
+                "Event_Name": "Absences: List View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:06",
+                "Property_Name": "eid",
+                "Allowed": "50",
+                "Blocked": "0",
+                "Total": "50"
+            },
+            {
+                "Event_Name": "Absences: List View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:06",
+                "Property_Name": "eventType",
+                "Allowed": "50",
+                "Blocked": "0",
+                "Total": "50"
+            },
+            {
+                "Event_Name": "Absences: List View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:06",
+                "Property_Name": "language",
+                "Allowed": "50",
+                "Blocked": "0",
+                "Total": "50"
+            },
+            {
+                "Event_Name": "Absences: List View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:06",
+                "Property_Name": "origin",
+                "Allowed": "44",
+                "Blocked": "0",
+                "Total": "44"
+            },
+            {
+                "Event_Name": "Absences: List View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:06",
+                "Property_Name": "source",
+                "Allowed": "50",
+                "Blocked": "0",
+                "Total": "50"
+            },
+            {
+                "Event_Name": "Absences: List View",
+                "LastSeenAt_UTC": "2022-11-11 15:26:06",
+                "Property_Name": "userAgent",
+                "Allowed": "50",
+                "Blocked": "0",
+                "Total": "50"
+            }
+        ]
+    },
+    {
+        "Absences: Select Leave": [
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": " ",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "category",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "eid",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "eventType",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "language",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "ntn",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "origin",
+                "Allowed": "789",
+                "Blocked": "0",
+                "Total": "789"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "source",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "userAgent",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            },
+            {
+                "Event_Name": "Absences: Select Leave",
+                "LastSeenAt_UTC": "2022-11-11 18:14:33",
+                "Property_Name": "view",
+                "Allowed": "862",
+                "Blocked": "0",
+                "Total": "862"
+            }
+        ]
+    },
+    {
+        "Behavioral Health Next Step: Clicked": [
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": " ",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "Eid",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "FIGCard",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "Form",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "category",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "eid",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "eventType",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "language",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "origin",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "source",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            },
+            {
+                "Event_Name": "Behavioral Health Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-10 15:12:21",
+                "Property_Name": "userAgent",
+                "Allowed": "2",
+                "Blocked": "0",
+                "Total": "2"
+            }
+        ]
+    },
+    {
+        "Chat Closed": [
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": " ",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "category",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "eid",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "eventType",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "label",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "language",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "origin",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "source",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "userAgent",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Chat Closed",
+                "LastSeenAt_UTC": "2022-11-07 20:28:17",
+                "Property_Name": "value",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            }
+        ]
+    },
+    {
+        "Chat Opened": [
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": " ",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "category",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "eid",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "eventType",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "label",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "language",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "origin",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "source",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "userAgent",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            },
+            {
+                "Event_Name": "Chat Opened",
+                "LastSeenAt_UTC": "2022-11-11 16:04:09",
+                "Property_Name": "value",
+                "Allowed": "16",
+                "Blocked": "0",
+                "Total": "16"
+            }
+        ]
+    },
+    {
+        "Error Notification": [
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": " ",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "category",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "eid",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "eventType",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "label",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "language",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "origin",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "source",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "userAgent",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Notification",
+                "LastSeenAt_UTC": "2022-11-10 19:59:04",
+                "Property_Name": "value",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            }
+        ]
+    },
+    {
+        "Error Page": [
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": " ",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "category",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "eid",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "eventType",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "label",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "language",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "origin",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "source",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "userAgent",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Error Page",
+                "LastSeenAt_UTC": "2022-11-08 05:36:52",
+                "Property_Name": "value",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            }
+        ]
+    },
+    {
+        "Existing Device Login": [
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": " ",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "category",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "eid",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "eventType",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "label",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "language",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "origin",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "source",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "userAgent",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            },
+            {
+                "Event_Name": "Existing Device Login",
+                "LastSeenAt_UTC": "2022-11-11 17:48:41",
+                "Property_Name": "value",
+                "Allowed": "109",
+                "Blocked": "0",
+                "Total": "109"
+            }
+        ]
+    },
+    {
+        "Fig Next Step: Clicked": [
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": " ",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "Eid",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "FIGCard",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "Form",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "category",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "eid",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "eventType",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "language",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "origin",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "source",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            },
+            {
+                "Event_Name": "Fig Next Step: Clicked",
+                "LastSeenAt_UTC": "2022-11-08 17:52:58",
+                "Property_Name": "userAgent",
+                "Allowed": "1",
+                "Blocked": "0",
+                "Total": "1"
+            }
+        ]
+    },
+    {
+        "Fig Next Step: Shown": [
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": " ",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "CardTitle",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "Eid",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "FIGCard",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "Form",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "category",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "eid",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "eventType",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "language",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "origin",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "source",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            },
+            {
+                "Event_Name": "Fig Next Step: Shown",
+                "LastSeenAt_UTC": "2022-11-11 15:54:06",
+                "Property_Name": "userAgent",
+                "Allowed": "28",
+                "Blocked": "0",
+                "Total": "28"
+            }
+        ]
+    },
+    {
+        "First Device Login": [
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": " ",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "category",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "eid",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "eventType",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "label",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "language",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "origin",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "source",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "userAgent",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "First Device Login",
+                "LastSeenAt_UTC": "2022-11-10 20:51:38",
+                "Property_Name": "value",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            }
+        ]
+    },
+    {
+        "Form: Exited": [
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": " ",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "category",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "eid",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "eventType",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "label",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "language",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "origin",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "source",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "userAgent",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            },
+            {
+                "Event_Name": "Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:57:04",
+                "Property_Name": "value",
+                "Allowed": "26",
+                "Blocked": "0",
+                "Total": "26"
+            }
+        ]
+    },
+    {
+        "Form: Started": [
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": " ",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "category",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "eid",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "eventType",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "label",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "language",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "origin",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "source",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "userAgent",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            },
+            {
+                "Event_Name": "Form: Started",
+                "LastSeenAt_UTC": "2022-11-11 17:54:35",
+                "Property_Name": "value",
+                "Allowed": "47",
+                "Blocked": "0",
+                "Total": "47"
+            }
+        ]
+    },
+    {
+        "Form: Successful Submission": [
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": " ",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "category",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "eid",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "eventType",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "label",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "language",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "origin",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "source",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "userAgent",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            },
+            {
+                "Event_Name": "Form: Successful Submission",
+                "LastSeenAt_UTC": "2022-11-11 17:56:44",
+                "Property_Name": "value",
+                "Allowed": "17",
+                "Blocked": "0",
+                "Total": "17"
+            }
+        ]
+    },
+    {
+        "Forms - IA: Add Absence": [
+            {
+                "Event_Name": "Forms - IA: Add Absence",
+                "LastSeenAt_UTC": "2022-11-10 18:08:58",
+                "Property_Name": " ",
+                "Allowed": "40",
+                "Blocked": "0",
+                "Total": "40"
+            },
+            {
+                "Event_Name": "Forms - IA: Add Absence",
+                "LastSeenAt_UTC": "2022-11-10 18:08:58",
+                "Property_Name": "category",
+                "Allowed": "40",
+                "Blocked": "0",
+                "Total": "40"
+            },
+            {
+                "Event_Name": "Forms - IA: Add Absence",
+                "LastSeenAt_UTC": "2022-11-10 18:08:58",
+                "Property_Name": "eid",
+                "Allowed": "40",
+                "Blocked": "0",
+                "Total": "40"
+            },
+            {
+                "Event_Name": "Forms - IA: Add Absence",
+                "LastSeenAt_UTC": "2022-11-10 18:08:58",
+                "Property_Name": "eventType",
+                "Allowed": "40",
+                "Blocked": "0",
+                "Total": "40"
+            },
+            {
+                "Event_Name": "Forms - IA: Add Absence",
+                "LastSeenAt_UTC": "2022-11-10 18:08:58",
+                "Property_Name": "language",
+                "Allowed": "40",
+                "Blocked": "0",
+                "Total": "40"
+            },
+            {
+                "Event_Name": "Forms - IA: Add Absence",
+                "LastSeenAt_UTC": "2022-11-10 18:08:58",
+                "Property_Name": "origin",
+                "Allowed": "38",
+                "Blocked": "0",
+                "Total": "38"
+            },
+            {
+                "Event_Name": "Forms - IA: Add Absence",
+                "LastSeenAt_UTC": "2022-11-10 18:08:58",
+                "Property_Name": "source",
+                "Allowed": "40",
+                "Blocked": "0",
+                "Total": "40"
+            },
+            {
+                "Event_Name": "Forms - IA: Add Absence",
+                "LastSeenAt_UTC": "2022-11-10 18:08:58",
+                "Property_Name": "userAgent",
+                "Allowed": "40",
+                "Blocked": "0",
+                "Total": "40"
+            }
+        ]
+    },
+    {
+        "Forms - IA: View Absences": [
+            {
+                "Event_Name": "Forms - IA: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 17:19:27",
+                "Property_Name": " ",
+                "Allowed": "78",
+                "Blocked": "0",
+                "Total": "78"
+            },
+            {
+                "Event_Name": "Forms - IA: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 17:19:27",
+                "Property_Name": "category",
+                "Allowed": "78",
+                "Blocked": "0",
+                "Total": "78"
+            },
+            {
+                "Event_Name": "Forms - IA: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 17:19:27",
+                "Property_Name": "eid",
+                "Allowed": "78",
+                "Blocked": "0",
+                "Total": "78"
+            },
+            {
+                "Event_Name": "Forms - IA: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 17:19:27",
+                "Property_Name": "eventType",
+                "Allowed": "78",
+                "Blocked": "0",
+                "Total": "78"
+            },
+            {
+                "Event_Name": "Forms - IA: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 17:19:27",
+                "Property_Name": "language",
+                "Allowed": "78",
+                "Blocked": "0",
+                "Total": "78"
+            },
+            {
+                "Event_Name": "Forms - IA: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 17:19:27",
+                "Property_Name": "origin",
+                "Allowed": "68",
+                "Blocked": "0",
+                "Total": "68"
+            },
+            {
+                "Event_Name": "Forms - IA: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 17:19:27",
+                "Property_Name": "source",
+                "Allowed": "78",
+                "Blocked": "0",
+                "Total": "78"
+            },
+            {
+                "Event_Name": "Forms - IA: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 17:19:27",
+                "Property_Name": "userAgent",
+                "Allowed": "78",
+                "Blocked": "0",
+                "Total": "78"
+            }
+        ]
+    },
+    {
+        "Get Document": [
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": " ",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "category",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "eid",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "eventType",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "label",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "language",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "origin",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "source",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "userAgent",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "Get Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:42",
+                "Property_Name": "value",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            }
+        ]
+    },
+    {
+        "Intake Form: Exited": [
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": " ",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "category",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "eid",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "eventType",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "exitReason",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "formName",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "language",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "origin",
+                "Allowed": "48",
+                "Blocked": "0",
+                "Total": "48"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "otherText",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "source",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            },
+            {
+                "Event_Name": "Intake Form: Exited",
+                "LastSeenAt_UTC": "2022-11-11 17:48:22",
+                "Property_Name": "userAgent",
+                "Allowed": "51",
+                "Blocked": "0",
+                "Total": "51"
+            }
+        ]
+    },
+    {
+        "LPV: Calendar View Selected": [
+            {
+                "Event_Name": "LPV: Calendar View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:34",
+                "Property_Name": " ",
+                "Allowed": "23",
+                "Blocked": "0",
+                "Total": "23"
+            },
+            {
+                "Event_Name": "LPV: Calendar View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:24:05",
+                "Property_Name": "category",
+                "Allowed": "24",
+                "Blocked": "0",
+                "Total": "24"
+            },
+            {
+                "Event_Name": "LPV: Calendar View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:24:05",
+                "Property_Name": "eid",
+                "Allowed": "24",
+                "Blocked": "0",
+                "Total": "24"
+            },
+            {
+                "Event_Name": "LPV: Calendar View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:24:05",
+                "Property_Name": "eventType",
+                "Allowed": "24",
+                "Blocked": "0",
+                "Total": "24"
+            },
+            {
+                "Event_Name": "LPV: Calendar View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:24:05",
+                "Property_Name": "language",
+                "Allowed": "24",
+                "Blocked": "0",
+                "Total": "24"
+            },
+            {
+                "Event_Name": "LPV: Calendar View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:24:05",
+                "Property_Name": "origin",
+                "Allowed": "21",
+                "Blocked": "0",
+                "Total": "21"
+            },
+            {
+                "Event_Name": "LPV: Calendar View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:24:05",
+                "Property_Name": "source",
+                "Allowed": "24",
+                "Blocked": "0",
+                "Total": "24"
+            },
+            {
+                "Event_Name": "LPV: Calendar View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:24:05",
+                "Property_Name": "userAgent",
+                "Allowed": "24",
+                "Blocked": "0",
+                "Total": "24"
+            }
+        ]
+    },
+    {
+        "LPV: Details View Selected": [
+            {
+                "Event_Name": "LPV: Details View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:47",
+                "Property_Name": " ",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "LPV: Details View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:47",
+                "Property_Name": "category",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "LPV: Details View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:47",
+                "Property_Name": "eid",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "LPV: Details View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:47",
+                "Property_Name": "eventType",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "LPV: Details View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:47",
+                "Property_Name": "language",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "LPV: Details View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:47",
+                "Property_Name": "origin",
+                "Allowed": "13",
+                "Blocked": "0",
+                "Total": "13"
+            },
+            {
+                "Event_Name": "LPV: Details View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:47",
+                "Property_Name": "source",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "LPV: Details View Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:21:47",
+                "Property_Name": "userAgent",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            }
+        ]
+    },
+    {
+        "LPV: Edit Button Pressed": [
+            {
+                "Event_Name": "LPV: Edit Button Pressed",
+                "LastSeenAt_UTC": "2022-11-11 18:20:22",
+                "Property_Name": " ",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Edit Button Pressed",
+                "LastSeenAt_UTC": "2022-11-11 18:20:22",
+                "Property_Name": "category",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Edit Button Pressed",
+                "LastSeenAt_UTC": "2022-11-11 18:20:22",
+                "Property_Name": "eid",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Edit Button Pressed",
+                "LastSeenAt_UTC": "2022-11-11 18:20:22",
+                "Property_Name": "eventType",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Edit Button Pressed",
+                "LastSeenAt_UTC": "2022-11-11 18:20:22",
+                "Property_Name": "language",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Edit Button Pressed",
+                "LastSeenAt_UTC": "2022-11-11 18:20:22",
+                "Property_Name": "origin",
+                "Allowed": "40",
+                "Blocked": "0",
+                "Total": "40"
+            },
+            {
+                "Event_Name": "LPV: Edit Button Pressed",
+                "LastSeenAt_UTC": "2022-11-11 18:20:22",
+                "Property_Name": "source",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Edit Button Pressed",
+                "LastSeenAt_UTC": "2022-11-11 18:20:22",
+                "Property_Name": "userAgent",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            }
+        ]
+    },
+    {
+        "LPV: Edit Option Selected": [
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": " ",
+                "Allowed": "33",
+                "Blocked": "0",
+                "Total": "33"
+            },
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": "category",
+                "Allowed": "33",
+                "Blocked": "0",
+                "Total": "33"
+            },
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": "eid",
+                "Allowed": "33",
+                "Blocked": "0",
+                "Total": "33"
+            },
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": "eventType",
+                "Allowed": "33",
+                "Blocked": "0",
+                "Total": "33"
+            },
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": "language",
+                "Allowed": "33",
+                "Blocked": "0",
+                "Total": "33"
+            },
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": "optionText",
+                "Allowed": "33",
+                "Blocked": "0",
+                "Total": "33"
+            },
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": "origin",
+                "Allowed": "29",
+                "Blocked": "0",
+                "Total": "29"
+            },
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": "source",
+                "Allowed": "33",
+                "Blocked": "0",
+                "Total": "33"
+            },
+            {
+                "Event_Name": "LPV: Edit Option Selected",
+                "LastSeenAt_UTC": "2022-11-11 18:20:30",
+                "Property_Name": "userAgent",
+                "Allowed": "33",
+                "Blocked": "0",
+                "Total": "33"
+            }
+        ]
+    },
+    {
+        "LPV: Income Protection Details Expanded": [
+            {
+                "Event_Name": "LPV: Income Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 18:23:50",
+                "Property_Name": " ",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Income Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 18:23:50",
+                "Property_Name": "category",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Income Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 18:23:50",
+                "Property_Name": "eid",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Income Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 18:23:50",
+                "Property_Name": "eventType",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Income Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 18:23:50",
+                "Property_Name": "language",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Income Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 18:23:50",
+                "Property_Name": "origin",
+                "Allowed": "42",
+                "Blocked": "0",
+                "Total": "42"
+            },
+            {
+                "Event_Name": "LPV: Income Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 18:23:50",
+                "Property_Name": "source",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            },
+            {
+                "Event_Name": "LPV: Income Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 18:23:50",
+                "Property_Name": "userAgent",
+                "Allowed": "45",
+                "Blocked": "0",
+                "Total": "45"
+            }
+        ]
+    },
+    {
+        "LPV: Job Protection Details Expanded": [
+            {
+                "Event_Name": "LPV: Job Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 17:45:07",
+                "Property_Name": " ",
+                "Allowed": "62",
+                "Blocked": "0",
+                "Total": "62"
+            },
+            {
+                "Event_Name": "LPV: Job Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 17:45:07",
+                "Property_Name": "category",
+                "Allowed": "62",
+                "Blocked": "0",
+                "Total": "62"
+            },
+            {
+                "Event_Name": "LPV: Job Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 17:45:07",
+                "Property_Name": "eid",
+                "Allowed": "62",
+                "Blocked": "0",
+                "Total": "62"
+            },
+            {
+                "Event_Name": "LPV: Job Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 17:45:07",
+                "Property_Name": "eventType",
+                "Allowed": "62",
+                "Blocked": "0",
+                "Total": "62"
+            },
+            {
+                "Event_Name": "LPV: Job Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 17:45:07",
+                "Property_Name": "language",
+                "Allowed": "62",
+                "Blocked": "0",
+                "Total": "62"
+            },
+            {
+                "Event_Name": "LPV: Job Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 17:45:07",
+                "Property_Name": "origin",
+                "Allowed": "55",
+                "Blocked": "0",
+                "Total": "55"
+            },
+            {
+                "Event_Name": "LPV: Job Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 17:45:07",
+                "Property_Name": "source",
+                "Allowed": "62",
+                "Blocked": "0",
+                "Total": "62"
+            },
+            {
+                "Event_Name": "LPV: Job Protection Details Expanded",
+                "LastSeenAt_UTC": "2022-11-11 17:45:07",
+                "Property_Name": "userAgent",
+                "Allowed": "62",
+                "Blocked": "0",
+                "Total": "62"
+            }
+        ]
+    },
+    {
+        "Page Viewed": [
+            {
+                "Event_Name": "Page Viewed",
+                "LastSeenAt_UTC": "2022-11-11 18:23:37",
+                "Property_Name": " ",
+                "Allowed": "18895",
+                "Blocked": "0",
+                "Total": "18895"
+            },
+            {
+                "Event_Name": "Page Viewed",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "category",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Page Viewed",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "eid",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Page Viewed",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "eventType",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Page Viewed",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "language",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Page Viewed",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "origin",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Page Viewed",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "source",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Page Viewed",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "userAgent",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            }
+        ]
+    },
+    {
+        "Script error.": [
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": " ",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "category",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "eventType",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "label",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "language",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "origin",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "source",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "userAgent",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Script error.",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "value",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            }
+        ]
+    },
+    {
+        "Success Notification": [
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": " ",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "category",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "eid",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "eventType",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "label",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "language",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "origin",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "source",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "userAgent",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            },
+            {
+                "Event_Name": "Success Notification",
+                "LastSeenAt_UTC": "2022-11-11 13:56:35",
+                "Property_Name": "value",
+                "Allowed": "11",
+                "Blocked": "0",
+                "Total": "11"
+            }
+        ]
+    },
+    {
+        "Summary: Add Absence": [
+            {
+                "Event_Name": "Summary: Add Absence",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": " ",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Summary: Add Absence",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "category",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Summary: Add Absence",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "eventType",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Summary: Add Absence",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "language",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Summary: Add Absence",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "ntn",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Summary: Add Absence",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "origin",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Summary: Add Absence",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "source",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Summary: Add Absence",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "userAgent",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            }
+        ]
+    },
+    {
+        "Summary: Expand NTN": [
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": " ",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "accommodations",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "category",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "claims",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "eid",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "eventType",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "language",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "leaves",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "ntn",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "origin",
+                "Allowed": "479",
+                "Blocked": "0",
+                "Total": "479"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "source",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            },
+            {
+                "Event_Name": "Summary: Expand NTN",
+                "LastSeenAt_UTC": "2022-11-11 18:08:33",
+                "Property_Name": "userAgent",
+                "Allowed": "510",
+                "Blocked": "0",
+                "Total": "510"
+            }
+        ]
+    },
+    {
+        "Summary: View Absences": [
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": " ",
+                "Allowed": "547",
+                "Blocked": "0",
+                "Total": "547"
+            },
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": "category",
+                "Allowed": "547",
+                "Blocked": "0",
+                "Total": "547"
+            },
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": "eid",
+                "Allowed": "547",
+                "Blocked": "0",
+                "Total": "547"
+            },
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": "eventType",
+                "Allowed": "547",
+                "Blocked": "0",
+                "Total": "547"
+            },
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": "language",
+                "Allowed": "547",
+                "Blocked": "0",
+                "Total": "547"
+            },
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": "ntn",
+                "Allowed": "547",
+                "Blocked": "0",
+                "Total": "547"
+            },
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": "origin",
+                "Allowed": "505",
+                "Blocked": "0",
+                "Total": "505"
+            },
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": "source",
+                "Allowed": "547",
+                "Blocked": "0",
+                "Total": "547"
+            },
+            {
+                "Event_Name": "Summary: View Absences",
+                "LastSeenAt_UTC": "2022-11-11 18:14:32",
+                "Property_Name": "userAgent",
+                "Allowed": "547",
+                "Blocked": "0",
+                "Total": "547"
+            }
+        ]
+    },
+    {
+        "Summary: View Leave Plan": [
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": " ",
+                "Allowed": "474",
+                "Blocked": "0",
+                "Total": "474"
+            },
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": "category",
+                "Allowed": "474",
+                "Blocked": "0",
+                "Total": "474"
+            },
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": "eid",
+                "Allowed": "474",
+                "Blocked": "0",
+                "Total": "474"
+            },
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": "eventType",
+                "Allowed": "474",
+                "Blocked": "0",
+                "Total": "474"
+            },
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": "language",
+                "Allowed": "474",
+                "Blocked": "0",
+                "Total": "474"
+            },
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": "ntn",
+                "Allowed": "474",
+                "Blocked": "0",
+                "Total": "474"
+            },
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": "origin",
+                "Allowed": "450",
+                "Blocked": "0",
+                "Total": "450"
+            },
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": "source",
+                "Allowed": "474",
+                "Blocked": "0",
+                "Total": "474"
+            },
+            {
+                "Event_Name": "Summary: View Leave Plan",
+                "LastSeenAt_UTC": "2022-11-11 18:12:47",
+                "Property_Name": "userAgent",
+                "Allowed": "474",
+                "Blocked": "0",
+                "Total": "474"
+            }
+        ]
+    },
+    {
+        "Survey: Displayed": [
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": " ",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "category",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "eid",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "eventType",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "label",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "language",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "origin",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "source",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "userAgent",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            },
+            {
+                "Event_Name": "Survey: Displayed",
+                "LastSeenAt_UTC": "2022-11-10 12:38:23",
+                "Property_Name": "value",
+                "Allowed": "7",
+                "Blocked": "0",
+                "Total": "7"
+            }
+        ]
+    },
+    {
+        "Survey: Triggered": [
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": " ",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "category",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "eid",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "eventType",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "label",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "language",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "origin",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "source",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "userAgent",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            },
+            {
+                "Event_Name": "Survey: Triggered",
+                "LastSeenAt_UTC": "2022-11-11 17:56:45",
+                "Property_Name": "value",
+                "Allowed": "85",
+                "Blocked": "0",
+                "Total": "85"
+            }
+        ]
+    },
+    {
+        "Uncaught TypeError: Cannot read properties of null (reading 'toString')": [
+            {
+                "Event_Name": "Uncaught TypeError: Cannot read properties of null (reading 'toString')",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": " ",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Uncaught TypeError: Cannot read properties of null (reading 'toString')",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "category",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Uncaught TypeError: Cannot read properties of null (reading 'toString')",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "eventType",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Uncaught TypeError: Cannot read properties of null (reading 'toString')",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "label",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Uncaught TypeError: Cannot read properties of null (reading 'toString')",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "language",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Uncaught TypeError: Cannot read properties of null (reading 'toString')",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "source",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Uncaught TypeError: Cannot read properties of null (reading 'toString')",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "userAgent",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            },
+            {
+                "Event_Name": "Uncaught TypeError: Cannot read properties of null (reading 'toString')",
+                "LastSeenAt_UTC": "more than 30 days ago",
+                "Property_Name": "value",
+                "Allowed": "0",
+                "Blocked": "0",
+                "Total": "0"
+            }
+        ]
+    },
+    {
+        "Upload: Failed To Send": [
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": " ",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "category",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "eid",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "eventType",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.caseId",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.error",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.errorMessage",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.extension",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.name",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.progress",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.sendPercent",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.sending",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.sent",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.size",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.status",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "files.$.uid",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "language",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "origin",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "responses",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "responses.$",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "source",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            },
+            {
+                "Event_Name": "Upload: Failed To Send",
+                "LastSeenAt_UTC": "2022-11-08 22:41:30",
+                "Property_Name": "userAgent",
+                "Allowed": "9",
+                "Blocked": "0",
+                "Total": "9"
+            }
+        ]
+    },
+    {
+        "Upload: Validation Failure": [
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": " ",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "category",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "eid",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "errors",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "errors.$",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "eventType",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "extension",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "language",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "name",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "origin",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "size",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "source",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            },
+            {
+                "Event_Name": "Upload: Validation Failure",
+                "LastSeenAt_UTC": "2022-11-11 13:11:06",
+                "Property_Name": "userAgent",
+                "Allowed": "12",
+                "Blocked": "0",
+                "Total": "12"
+            }
+        ]
+    },
+    {
+        "View Change": [
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": " ",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "category",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "eid",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "eventType",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "label",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "language",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "origin",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "source",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "userAgent",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            },
+            {
+                "Event_Name": "View Change",
+                "LastSeenAt_UTC": "2022-11-11 17:48:57",
+                "Property_Name": "value",
+                "Allowed": "154",
+                "Blocked": "0",
+                "Total": "154"
+            }
+        ]
+    },
+    {
+        "View Document": [
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": " ",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "category",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "eid",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "eventType",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "label",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "language",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "origin",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "source",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "userAgent",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            },
+            {
+                "Event_Name": "View Document",
+                "LastSeenAt_UTC": "2022-11-10 12:38:45",
+                "Property_Name": "value",
+                "Allowed": "14",
+                "Blocked": "0",
+                "Total": "14"
+            }
+        ]
+    }
+]
