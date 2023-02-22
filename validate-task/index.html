@@ -34,14 +34,26 @@
       }
 
       function initializeValidator(initialValue, isDisabled, isError) {
-        validateButton = $('#validateBtn');
-        errorLabel = $('#errorLbl');
+        validateButton = $("#validateBtn");
+        errorLabel = $("#errorLbl");
 
         updateDisabled(isDisabled);
 
         validateButton.on("click", () => {
           setValue(validateTask());
         });
+      }
+
+      function validateTask(){
+        CustomElement.getElementValue("task_type", (value: object) => {
+
+          if(value.filter(e => e.codename === 'missing_data').length > 0)
+          {
+            errorLabel.val("ITS A GOOD TYPE");
+          }
+
+        });
+        errorLabel.val("ITS A BAD TYPE");
       }
 
       function setValue(value) {
