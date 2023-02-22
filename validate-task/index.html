@@ -45,7 +45,7 @@
       }
 
       function validateTask(){
-        CustomElement.getElementValue("task_type", (value: object) => {
+        CustomElement.getElementValue("task_type", (value) => {
 
           if(value.filter(e => e.codename === 'missing_data').length > 0)
           {
