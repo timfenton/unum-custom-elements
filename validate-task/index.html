@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Task Validator</title>
+    <!-- libs -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+
+    <!-- Kentico Custom elements API-->
+    <script src="https://app.kontent.ai/js-api/custom-element/v1/custom-element.min.js"></script>
+
+    <!-- Custom elements styles -->
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Custom element HTML -->
+    <label id="errorLbl"></label>
+    <button id="validateBtn">Validate Task</button>
+
+    <!-- Custom element code -->
+    <script>
+      var isDisabled = false;
+      var validateButton = null;
+      var errorLabel = null;
+
+      function updateDisabled(disabled) {
+        isDisabled = disabled;
+      }
+
+      function initializeValidator(initialValue, isDisabled, isError) {
+        validateButton = $('#validateBtn');
+        errorLabel = $('#errorLbl');
+
+        updateDisabled(isDisabled);
+
+        validateButton.on("click", () => {
+          setValue(validateTask());
+        });
+      }
+
+      function setValue(value) {
+        if (!isDisabled) {
+          CustomElement.setValue(value || null);
+        }
+      }
+
+      function initCustomElement() {
+        try {
+          CustomElement.init((element, _context) => {
+            initializeValidator(element.value, element.disabled, false);
+          });
+
+          CustomElement.onDisabledChanged(updateDisabled);
+        } catch (err) {
+          console.error(err);
+          initializeValidator(err.toString(), false, true);
+        }
+      }
+
+      initCustomElement();
+    </script>
+  </body>
+</html>
