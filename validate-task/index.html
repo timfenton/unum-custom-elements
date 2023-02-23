@@ -28,6 +28,7 @@
       var isDisabled = false;
       var validateButton = null;
       var errorLabel = null;
+      var validatedFields = ["task_friendly_name","task_originator","task_priority","task_type"];
 
       function updateDisabled(disabled) {
         isDisabled = disabled;
@@ -41,7 +42,7 @@
 
         updateDisabled(isDisabled);
 
-        CustomElement.observeElementChanges({"task_friendly_name","task_short_description","task_originator","task_priority","task_type","data_retrieval_form"}, () =>{
+        CustomElement.observeElementChanges(validatedFields, () =>{
           setValue(null);
           errorLabel.css('color', 'black');
           errorLabel.text("A change was detected. Please re-validate.");
