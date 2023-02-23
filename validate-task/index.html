@@ -20,7 +20,7 @@
   </head>
   <body>
     <!-- Custom element HTML -->
-    <label id="errorLbl"></label>
+    <label id="errorLbl">this is where errors will show up</label>
     <button id="validateBtn">Validate Task</button>
 
     <!-- Custom element code -->
@@ -49,8 +49,10 @@
           alert(value[0].codename);
           if(value.filter(e => e.codename === 'missing_data').length > 0)
           {
+            alert("good type");
             errorLabel.val("ITS A GOOD TYPE");
           }else{
+            alert("bad type");
             errorLabel.val("ITS A BAD TYPE");
           }
 
