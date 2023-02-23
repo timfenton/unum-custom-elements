@@ -50,10 +50,11 @@
           if(value.filter(e => e.codename === 'missing_data').length > 0)
           {
             errorLabel.val("ITS A GOOD TYPE");
+          }else{
+            errorLabel.val("ITS A BAD TYPE");
           }
 
         });
-        errorLabel.val("ITS A BAD TYPE");
       }
 
       function setValue(value) {
