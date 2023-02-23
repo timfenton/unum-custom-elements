@@ -41,6 +41,12 @@
 
         updateDisabled(isDisabled);
 
+        CustomElement.observeElementChanges({"task_friendly_name","task_short_description","task_originator","task_priority","task_type","data_retrieval_form"}, () =>{
+          setValue(null);
+          errorLabel.css('color', 'black');
+          errorLabel.text("A change was detected. Please re-validate.");
+        });
+
         validateButton.click(() => {
           setValue(validateTask());
         });
@@ -50,11 +56,11 @@
         CustomElement.getElementValue("task_type", (value) => {
           if(value.filter(e => e.codename === 'missing_data').length > 0)
           {
-            errorLabel.css("'color':'black';");
+            errorLabel.css('color', 'black');
             errorLabel.text("A valid type is selected.");
             setValue("1");
           }else{
-            errorLabel.css("'color':'red';");
+            errorLabel.css('color', 'red');
             errorLabel.text("A bad type is selected. Change type and validate again.");
           }
 
