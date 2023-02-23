@@ -50,11 +50,11 @@
         CustomElement.getElementValue("task_type", (value) => {
           if(value.filter(e => e.codename === 'missing_data').length > 0)
           {
-            errorLabel.style("font-color:black;");
+            errorLabel.css("'color':'black';");
             errorLabel.text("A valid type is selected.");
             setValue(1);
           }else{
-            errorLabel.style("font-color:red;");
+            errorLabel.css("'color':'red';");
             errorLabel.text("A bad type is selected. Change type and validate again.");
           }
 
