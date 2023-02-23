@@ -20,7 +20,7 @@
   </head>
   <body>
     <!-- Custom element HTML -->
-    <label id="errorLbl">this is where errors will show up</label>
+    <label id="errorLbl"></label><br />
     <button id="validateBtn">Validate Task</button>
 
     <!-- Custom element code -->
@@ -34,6 +34,8 @@
       }
 
       function initializeValidator(initialValue, isDisabled, isError) {
+        setValue(null); //force validation each time.
+
         validateButton = $("#validateBtn");
         errorLabel = $("#errorLbl");
 
@@ -46,14 +48,14 @@
 
       function validateTask(){
         CustomElement.getElementValue("task_type", (value) => {
-          alert(value[0].codename);
           if(value.filter(e => e.codename === 'missing_data').length > 0)
           {
-            alert("good type");
-            errorLabel.val("ITS A GOOD TYPE");
+            errorLabel.style("font-color:black;");
+            errorLabel.text("A valid type is selected.");
+            setValue(1);
           }else{
-            alert("bad type");
-            errorLabel.val("ITS A BAD TYPE");
+            errorLabel.style("font-color:red;");
+            errorLabel.text("A bad type is selected. Change type and validate again.");
           }
 
         });
