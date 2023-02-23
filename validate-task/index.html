@@ -46,7 +46,7 @@
 
       function validateTask(){
         CustomElement.getElementValue("task_type", (value) => {
-          alert(value);
+          alert(value[0].codename);
           if(value.filter(e => e.codename === 'missing_data').length > 0)
           {
             errorLabel.val("ITS A GOOD TYPE");
